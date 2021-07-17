@@ -2,8 +2,9 @@
 RoboDK Python script for automate conveyor control.
 Please started in Linux(recomendate: Debian)
 For the customer Mikulsky Petr Ivanovich.
-
-#RoboDK_python_scrip(russian version)
+__________________________
+# RoboDK_python_script(russian version)
 Данный набор скриптов предназначен для автоматизации работы конвеерной ленты.
 Рекомендую запускать RoboDK и этот скрипт на ОС семейства Linux(Debian).
-Создано для Микульского П.И.
+Создано для заказчика Микульского П.И.
+___________________________
